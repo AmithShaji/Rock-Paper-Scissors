@@ -1,4 +1,4 @@
-## Tic-Tac-Toe
+## Rock-Paper-Scissors
 
 **Author:** Amith T V
 
