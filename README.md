@@ -16,5 +16,5 @@ A classic Rock, Paper, Scissors game built using HTML, CSS, and JavaScript.
 * Javascipt
 
 ### Getting Started
-1. Clone this repository: `git clone https://github.com/AmithShaji/Rock-Paper-Scissors.git`
+1. Clone this repository: `git clone https://github.com/amith-shaji/Rock-Paper-Scissors.git`
 2. Open the `index.html` file in your preferred web browser.
